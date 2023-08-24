@@ -1,0 +1,10 @@
+.row{
+  padding: 10px;
+}
+.main{
+  background-image: url(newswall2.jpg);
+  width: 99%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
